@@ -1,0 +1,4 @@
+repository "FPS Test@Ger16@cloud"
+  path "/"
+    br "/main"
+    co "/main"
